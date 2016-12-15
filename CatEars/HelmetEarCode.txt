@@ -1,5 +1,5 @@
 Author: Zoe Laughlin
 
-This Arduino code is intended for a pair of animatronic ears  to go on top of a helmet worn byyoung girl who has to wear one every day to protect herself.
+This Arduino code is intended for a pair of animatronic ears to go on top of a helmet worn by a young girl who has to wear one every day to protect herself.
 
 
